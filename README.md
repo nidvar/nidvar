@@ -1,6 +1,6 @@
 ## Greetings ! 👋
 
-**Background:** I graduated with a degree in physics, but now I build web applications. 😎
+**Background:** Graduated with a degree in physics, now building web applications. 😎
 
 ## Tech stack 💻
 
