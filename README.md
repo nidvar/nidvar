@@ -1,6 +1,6 @@
-## Greetings! 👋
+## Greetings ! 👋
 
-I am a physics graduate turned fullstack developer.
+**Background:** I graduated with a degree in physics, but now I build web applications. 😎
 
 ## Tech stack 💻
 
