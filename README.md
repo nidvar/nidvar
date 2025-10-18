@@ -2,7 +2,8 @@
 
 I am a physics graduate turned fullstack developer.
 
-## Techstack! 👋
+## Tech stack! ![Uploading image.png…]()
+
 
 Frontend: React, Vue, JavaScript, HTML, CSS
 Backend: NodeJS, PHP, Django
