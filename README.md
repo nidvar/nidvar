@@ -4,7 +4,7 @@
 
 ## Tech stack 💻
 
-**Frontend:** React, Vue, JavaScript, HTML, CSS
+**Frontend:** React, Vue, JavaScript, TypeScript, HTML, CSS
 
 **Backend:** NodeJS, PHP, Django
 
